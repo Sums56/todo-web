@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(228, 61, 89);
+}
+.taskbox{
+    background-color: gold;
+}
+input{
+    border: solid 3px gold;
+    border-radius: 11px;
+    
+}
+.text{
+    color: gold;
+}
+.add{
+    background-color: gold;
+    margin: 5px;
+    border-radius: 50px;
+    border: solid 3px gold;
+    
+}
